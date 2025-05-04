@@ -2,7 +2,7 @@
 
 A decentralized application that displays real-time cryptocurrency prices using RedStone's price feeds on the RSK Testnet. This DApp demonstrates how to integrate RedStone's oracle services with a React frontend and Solidity smart contracts.
 
-![RedStone Price Feed Demo](screenshot.png)
+![Image](https://github.com/user-attachments/assets/7335a546-917d-407b-ae76-30738419b322)
 
 ## Features
 
