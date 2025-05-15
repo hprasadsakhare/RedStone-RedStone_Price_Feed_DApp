@@ -186,7 +186,9 @@ MIT License - see LICENSE file for details
 ## Acknowledgments
 
 
+
 - RedStone Finance for oracle services
 - RSK for the testnet infrastructure
 - OpenZeppelin for contract libraries
 - Chakra UI for the component library 
+- 
